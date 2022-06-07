@@ -26,4 +26,4 @@
 1. Transformers Generalize DeepSets and Can be Extended to Graphs & Hypergraphs. NeurIPS 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/ec0f40c389aeef789ce03eb814facc6c-Paper.pdf)
 1. Representing Long-Range Context for Graph Neural Networks with Global Attention. NeurIPS 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/6e67691b60ed3e4a55935261314dd534-Paper.pdf)
 1. Edge-augmented Graph Transformers: Global Self-attention is Enough for Graphs. Arxiv 2021. [[paper]](https://arxiv.org/abs/2108.03348)
-1. Graph Masked Autoencoder. Arxiv 2022. [[paper]](https://arxiv.org/abs/2202.08391)
+1. Graph Masked Autoencoders with Transformers. Arxiv 2022. [[paper]](https://arxiv.org/abs/2202.08391)
