@@ -1,10 +1,14 @@
 ## Graph Transformer Papers
 
-### Graph Transformers with Special Positional Encoding
+### Structural Encoding / Postional Encoding for Graph Transformers
+#### Spectral Positional Encoding
 1. Rethinking Graph Transformers with Spectral Attention. NeurIPS 2021. [[paper]](https://arxiv.org/abs/2106.03893)
-1. Do Transformers Really Perform Bad for Graph Representation? NeurIPS 2021. [[paper]](https://arxiv.org/abs/2106.05234)
 1. A Generalization of Transformer Networks to Graphs. AAAI workshop 2021. [[paper]](https://arxiv.org/pdf/2012.09699.pdf)
+
+#### Other Positional Encoding
+1. Do Transformers Really Perform Bad for Graph Representation? NeurIPS 2021. [[paper]](https://arxiv.org/abs/2106.05234)
 1. Graph Neural Networks with Learnable Structural and Positional Representations. ICLR 2022. [[paper]](https://arxiv.org/abs/2110.07875)
+1. GRPE: Relative Positional Encoding for Graph Transformer. ICLR 2022 Workshop MLDD [[paper]](https://openreview.net/forum?id=GNfAFN_p1d)
 
 ### Graph Transformers on Large-scale Graphs (Transformers with Sampling)
 1. A Self-Attention Network based Node Embedding Model. ECML-PKDD 2020. [[paper]](https://arxiv.org/abs/2006.12100)
@@ -21,9 +25,11 @@
 ### Pre-training with Graph Transformers
 1. Selfsupervised graph transformer on large-scale molecular data. NeurIPS 2020. [[paper]](https://arxiv.org/abs/2007.02835)
 1. Graph-Bert: Only Attention is Needed for Learning Graph Representations. Arxiv 2020. [[paper]](https://arxiv.org/abs/2001.05140)
+1. Graph Masked Autoencoders with Transformers. Arxiv 2022. [[paper]](https://arxiv.org/abs/2202.08391)
 
 ### Uncategorized
 1. Transformers Generalize DeepSets and Can be Extended to Graphs & Hypergraphs. NeurIPS 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/ec0f40c389aeef789ce03eb814facc6c-Paper.pdf)
 1. Representing Long-Range Context for Graph Neural Networks with Global Attention. NeurIPS 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/6e67691b60ed3e4a55935261314dd534-Paper.pdf)
 1. Edge-augmented Graph Transformers: Global Self-attention is Enough for Graphs. Arxiv 2021. [[paper]](https://arxiv.org/abs/2108.03348)
-1. Graph Masked Autoencoders with Transformers. Arxiv 2022. [[paper]](https://arxiv.org/abs/2202.08391)
+1. GraphiT: Encoding Graph Structure in Transformers. Arxiv 2021. [[paper]](https://arxiv.org/abs/2106.05667)
+1. Global Self-Attention as a Replacement for Graph Convolution. KDD 2022. [[paper]](https://arxiv.org/abs/2108.03348)
