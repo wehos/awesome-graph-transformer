@@ -16,6 +16,7 @@
 1. Heterogeneous Graph Transformer. WWW 2020. [[paper]](https://arxiv.org/abs/2003.01332)
 1. Gophormer: Ego-Graph Transformer for Node Classification. Arxiv 2021. [[paper]](https://arxiv.org/abs/2110.13094)
 1. Coarformer: Transformer for large graph via graph coarsening. Openreview 2021. [[paper]](https://openreview.net/forum?id=fkjO_FKVzw)
+1. Deformable Graph Transformer. Arxiv 2022. [[paper]](https://arxiv.org/abs/2206.14337)
 
 #### Transformers with Adapted Attention
 1. From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers. Arxiv 2022. [[paper]](https://arxiv.org/abs/2107.07999)
