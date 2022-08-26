@@ -3,12 +3,16 @@
 ### Structural Encoding / Postional Encoding for Graph Transformers
 #### Spectral Positional Encoding
 1. Rethinking Graph Transformers with Spectral Attention. NeurIPS 2021. [[paper]](https://arxiv.org/abs/2106.03893)
-1. A Generalization of Transformer Networks to Graphs. AAAI workshop 2021. [[paper]](https://arxiv.org/pdf/2012.09699.pdf)
+1. A Generalization of Transformer Networks to Graphs. AAAI workshop 2021. [[paper]](https://arxiv.org/pdf/2012.09699)
 
 #### Other Positional Encoding
 1. Do Transformers Really Perform Bad for Graph Representation? NeurIPS 2021. [[paper]](https://arxiv.org/abs/2106.05234)
 1. Graph Neural Networks with Learnable Structural and Positional Representations. ICLR 2022. [[paper]](https://arxiv.org/abs/2110.07875)
 1. GRPE: Relative Positional Encoding for Graph Transformer. ICLR 2022 Workshop MLDD [[paper]](https://openreview.net/forum?id=GNfAFN_p1d)
+1. Global Self-Attention as a Replacement for Graph Convolution. KDD 2022. [[paper]](https://arxiv.org/abs/2108.03348)
+1. GraphiT: Encoding Graph Structure in Transformers. Arxiv 2021. [[paper]](https://arxiv.org/abs/2106.05667)
+1. Structure-Aware Transformer for Graph Representation Learning. ICML 2022. [[paper]](https://proceedings.mlr.press/v162/chen22r.html)
+1. Recipe for a General, Powerful, Scalable Graph Transformer. Arxiv 2022. [[paper]](https://arxiv.org/abs/2205.12454)
 
 ### Scalability of Graph Transformers (Graph Transformers on Large-scale Graphs)
 #### Transformers with Sampling
@@ -36,5 +40,4 @@
 ### Uncategorized
 1. Transformers Generalize DeepSets and Can be Extended to Graphs & Hypergraphs. NeurIPS 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/ec0f40c389aeef789ce03eb814facc6c-Paper.pdf)
 1. Representing Long-Range Context for Graph Neural Networks with Global Attention. NeurIPS 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/6e67691b60ed3e4a55935261314dd534-Paper.pdf)
-1. GraphiT: Encoding Graph Structure in Transformers. Arxiv 2021. [[paper]](https://arxiv.org/abs/2106.05667)
-1. Global Self-Attention as a Replacement for Graph Convolution. KDD 2022. [[paper]](https://arxiv.org/abs/2108.03348)
+
