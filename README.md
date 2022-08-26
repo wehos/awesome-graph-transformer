@@ -30,7 +30,7 @@
 1. Molecule Attention Transformer. Arxiv 2020. [[paper]](https://arxiv.org/abs/2002.08264)
 1. GraphFormers: GNN-nested Transformers for Representation Learning on Textual Graph. NeurIPS 2021. [[paper]](https://arxiv.org/pdf/2105.02605.pdf)
 1. Systematic Generalization with Edge Transformers. NeurIPS 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/0a4dc6dae338c9cb08947c07581f77a2-Paper.pdf)
-1. Relative Molecule Self-Attention Transformer. Openreview 2021. [[paper]](https://openreview.net/forum?id=7ktHTjV9FHw)
+1. Relative Molecule Self-Attention Transformer. Arxiv 2021. [[paper]](https://arxiv.org/abs/2110.05841)
 
 ### Pre-training with Graph Transformers
 1. Selfsupervised graph transformer on large-scale molecular data. NeurIPS 2020. [[paper]](https://arxiv.org/abs/2007.02835)
