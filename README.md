@@ -17,6 +17,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Graph Neural Networks with Learnable Structural and Positional Representations. ICLR 2022. [[paper]](https://arxiv.org/abs/2110.07875)
 1. GRPE: Relative Positional Encoding for Graph Transformer. ICLR 2022 Workshop MLDD [[paper]](https://openreview.net/forum?id=GNfAFN_p1d)
 1. Global Self-Attention as a Replacement for Graph Convolution. KDD 2022. [[paper]](https://arxiv.org/abs/2108.03348)
+1. Pure Transformers are Powerful Graph Learners. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2207.02505)
 
 #### Graph Neural Network as Structural Encoder
 1. GraphiT: Encoding Graph Structure in Transformers. Arxiv 2021. [[paper]](https://arxiv.org/abs/2106.05667)
@@ -29,10 +30,11 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Heterogeneous Graph Transformer. WWW 2020. [[paper]](https://arxiv.org/abs/2003.01332)
 1. Gophormer: Ego-Graph Transformer for Node Classification. Arxiv 2021. [[paper]](https://arxiv.org/abs/2110.13094)
 1. Coarformer: Transformer for large graph via graph coarsening. Openreview 2021. [[paper]](https://openreview.net/forum?id=fkjO_FKVzw)
+1. Hierarchical Graph Transformer with Adaptive Node Sampling. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2210.03930)
 
 #### Transformers with Adapted Attention
 1. From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers. Arxiv 2022. [[paper]](https://arxiv.org/abs/2107.07999)
-1. Recipe for a General, Powerful, Scalable Graph Transformer. Arxiv 2022. [[paper]](https://arxiv.org/abs/2205.12454)
+1. Recipe for a General, Powerful, Scalable Graph Transformer. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2205.12454)
 1. Deformable Graph Transformer. Arxiv 2022. [[paper]](https://arxiv.org/abs/2206.14337)
 
 ### Applications of Graph Transformers (Molecules, Texts)
@@ -50,6 +52,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Relative Molecule Self-Attention Transformer. Arxiv 2021. [[paper]](https://arxiv.org/abs/2110.05841)
 1. Neighbour Interaction based Click-Through Rate Prediction via Graph-masked Transformer. Arxiv 2022. [[paper]](https://arxiv.org/abs/2201.13311)
 1. Equivariant Transformers for Neural Network based Molecular Potentials. ICLR 2022. [[paper]](https://openreview.net/forum?id=zNHzqZ9wrRB)
+1. Periodic Graph Transformers for Crystal Material Property Prediction. NeurIPS 2022. [[pper]](https://arxiv.org/abs/2209.11807)
 
 ### Pre-training with Graph Transformers
 1. Selfsupervised graph transformer on large-scale molecular data. NeurIPS 2020. [[paper]](https://arxiv.org/abs/2007.02835)
@@ -58,9 +61,11 @@ We will try to make this list updated. If you found any error or any missed pape
 
 ### Survey
 1. Transformer for Graphs: An Overview from Architecture Perspective. Arxiv 2022. [[paper]](https://arxiv.org/abs/2202.08455)
+1. A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. Arxiv 2022. [[paper]](https://arxiv.org/abs/2209.13232)
 
 ### Uncategorized
 1. Transformers Generalize DeepSets and Can be Extended to Graphs & Hypergraphs. NeurIPS 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/ec0f40c389aeef789ce03eb814facc6c-Paper.pdf)
 1. Representing Long-Range Context for Graph Neural Networks with Global Attention. NeurIPS 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/6e67691b60ed3e4a55935261314dd534-Paper.pdf)
 1. Universal Graph Transformer Self-Attention Networks. WWW 2022. [[paper]](https://dl.acm.org/doi/abs/10.1145/3487553.3524258)
 1. Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification. IJCAI 2021. [[paper]](https://www.ijcai.org/proceedings/2021/0214)
+1. Long Range Graph Benchmark. NeurIPS 2022. [[paper]](https://openreview.net/forum?id=in7XC5RcjEn)
