@@ -33,7 +33,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Hierarchical Graph Transformer with Adaptive Node Sampling. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2210.03930)
 
 #### Transformers with Adapted Attention
-1. From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers. Arxiv 2022. [[paper]](https://arxiv.org/abs/2107.07999)
+1. From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers. ICML 2022. [[paper]](https://arxiv.org/abs/2107.07999)
 1. Recipe for a General, Powerful, Scalable Graph Transformer. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2205.12454)
 1. Deformable Graph Transformer. Arxiv 2022. [[paper]](https://arxiv.org/abs/2206.14337)
 
