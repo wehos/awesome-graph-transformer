@@ -36,6 +36,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers. ICML 2022. [[paper]](https://arxiv.org/abs/2107.07999)
 1. Recipe for a General, Powerful, Scalable Graph Transformer. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2205.12454)
 1. Deformable Graph Transformer. Arxiv 2022. [[paper]](https://arxiv.org/abs/2206.14337)
+1. NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification. NeurIPS 2022. [[paper]](https://openreview.net/forum?id=sMezXGG5So)
 
 ### Applications of Graph Transformers (Molecules, Texts)
 1. Modeling Graph Structure in Transformer for Better AMR-to-Text Generation. EMNLP 2019. [[paper]](https://aclanthology.org/D19-1548/)
@@ -53,6 +54,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Neighbour Interaction based Click-Through Rate Prediction via Graph-masked Transformer. Arxiv 2022. [[paper]](https://arxiv.org/abs/2201.13311)
 1. Equivariant Transformers for Neural Network based Molecular Potentials. ICLR 2022. [[paper]](https://openreview.net/forum?id=zNHzqZ9wrRB)
 1. Periodic Graph Transformers for Crystal Material Property Prediction. NeurIPS 2022. [[pper]](https://arxiv.org/abs/2209.11807)
+1. Brain Network Transformer. NeurIPS 2022. [[paper]](https://openreview.net/forum?id=1cJ1cbA6NLN)
 
 ### Pre-training with Graph Transformers
 1. Selfsupervised graph transformer on large-scale molecular data. NeurIPS 2020. [[paper]](https://arxiv.org/abs/2007.02835)
