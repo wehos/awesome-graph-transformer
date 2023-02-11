@@ -19,7 +19,6 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Global Self-Attention as a Replacement for Graph Convolution. KDD 2022. [[paper]](https://arxiv.org/abs/2108.03348)
 1. Pure Transformers are Powerful Graph Learners. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2207.02505)
 1. Are More Layers Beneficial to Graph Transformers? ICLR 2023. [[paper]](https://openreview.net/forum?id=uagC-X9XMi8)
-1. Does Structural Information have been Fully Exploited in Graph Data? ICLR 2023. [[paper]](https://openreview.net/forum?id=fH4xGeqdgLb)
 
 #### Graph Neural Network as Structural Encoder
 1. GraphiT: Encoding Graph Structure in Transformers. Arxiv 2021. [[paper]](https://arxiv.org/abs/2106.05667)
@@ -71,6 +70,7 @@ We will try to make this list updated. If you found any error or any missed pape
 ### Survey
 1. Transformer for Graphs: An Overview from Architecture Perspective. Arxiv 2022. [[paper]](https://arxiv.org/abs/2202.08455)
 1. A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. Arxiv 2022. [[paper]](https://arxiv.org/abs/2209.13232)
+1. Attending to Graph Transformers. Arxiv 2022. [[paper]](https://arxiv.org/abs/2302.04181)
 
 ### Neural Architecture Search (NAS) for Graph Transformers
 1. AutoGT: Automated Graph Transformer Architecture Search. ICLR 2023. [[paper]](https://openreview.net/forum?id=GcM7qfl5zY)
