@@ -61,6 +61,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Multi-Relational Graph Transformer for Automatic Short Answer Grading. NAACL-HLT 2022. [[paper]](https://aclanthology.org/2022.naacl-main.146.pdf)
 1. Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries. KDD 2022. [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539472)
 1. Relphormer: Relational Graph Transformer for Knowledge Graph Representations. Arxiv 2022. [[paper]](https://arxiv.org/abs/2205.10852)
+1. DiGress: Discrete Denoising diffusion for graph generation. ICLR 2023. [[paper]](https://arxiv.org/abs/2209.14734)
 
 ### Pre-training with Graph Transformers
 1. Selfsupervised graph transformer on large-scale molecular data. NeurIPS 2020. [[paper]](https://arxiv.org/abs/2007.02835)
