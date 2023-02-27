@@ -40,6 +40,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Recipe for a General, Powerful, Scalable Graph Transformer. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2205.12454)
 1. Deformable Graph Transformer. Arxiv 2022. [[paper]](https://arxiv.org/abs/2206.14337)
 1. NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification. NeurIPS 2022. [[paper]](https://openreview.net/forum?id=sMezXGG5So)
+1. DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion. ICLR 2023. [[paper]](https://arxiv.org/abs/2301.09474)
 
 ### Applications of Graph Transformers (Molecules, Texts, Knowledge Graphs)
 1. Modeling Graph Structure in Transformer for Better AMR-to-Text Generation. EMNLP 2019. [[paper]](https://aclanthology.org/D19-1548/)
@@ -63,6 +64,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Relphormer: Relational Graph Transformer for Knowledge Graph Representations. Arxiv 2022. [[paper]](https://arxiv.org/abs/2205.10852)
 1. CoAtGIN: Marrying Convolution and Attention for Graph-based Molecule Property Prediction. BIBM 2022. [[paper]](https://ieeexplore.ieee.org/abstract/document/9995324)
 1. DiGress: Discrete Denoising diffusion for graph generation. ICLR 2023. [[paper]](https://arxiv.org/abs/2209.14734)
+1. Relational Attention: Generalizing Transformers for Graph-Structured Tasks. ICLR 2023. [[paper]](https://arxiv.org/abs/2210.05062)
 
 ### Pre-training with Graph Transformers
 1. Selfsupervised graph transformer on large-scale molecular data. NeurIPS 2020. [[paper]](https://arxiv.org/abs/2007.02835)
