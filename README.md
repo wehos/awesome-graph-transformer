@@ -20,7 +20,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Pure Transformers are Powerful Graph Learners. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2207.02505)
 1. Are More Layers Beneficial to Graph Transformers? ICLR 2023. [[paper]](https://openreview.net/forum?id=uagC-X9XMi8)
 
-#### Graph Neural Network as Structural Encoder
+#### Graph Neural Networks as Structural Encoder
 1. GraphiT: Encoding Graph Structure in Transformers. Arxiv 2021. [[paper]](https://arxiv.org/abs/2106.05667)
 1. Representing Long-Range Context for Graph Neural Networks with Global Attention. NeurIPS 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/6e67691b60ed3e4a55935261314dd534-Paper.pdf)
 1. Structure-Aware Transformer for Graph Representation Learning. ICML 2022. [[paper]](https://proceedings.mlr.press/v162/chen22r.html)
@@ -64,7 +64,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Relphormer: Relational Graph Transformer for Knowledge Graph Representations. Arxiv 2022. [[paper]](https://arxiv.org/abs/2205.10852)
 1. CoAtGIN: Marrying Convolution and Attention for Graph-based Molecule Property Prediction. BIBM 2022. [[paper]](https://ieeexplore.ieee.org/abstract/document/9995324)
 1. DiGress: Discrete Denoising diffusion for graph generation. ICLR 2023. [[paper]](https://arxiv.org/abs/2209.14734)
-1. Relational Attention: Generalizing Transformers for Graph-Structured Tasks. ICLR 2023. [[paper]](https://arxiv.org/abs/2210.05062)
+1. Relational Attention: Generalizing Transformers for Graph-Structured Tasks. ICLR 2023. [[paper]](https://openreview.net/forum?id=cFuMmbWiN6)
 
 ### Pre-training with Graph Transformers
 1. Selfsupervised graph transformer on large-scale molecular data. NeurIPS 2020. [[paper]](https://arxiv.org/abs/2007.02835)
@@ -85,4 +85,3 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification. IJCAI 2021. [[paper]](https://www.ijcai.org/proceedings/2021/0214)
 1. Long Range Graph Benchmark. NeurIPS 2022. [[paper]](https://openreview.net/forum?id=in7XC5RcjEn)
 1. Rethinking the Expressive Power of GNNs via Graph Biconnectivity. ICLR 2023. [[paper]](https://openreview.net/forum?id=r9hNv76KoT3)
-1. Relational Attention: Generalizing Transformers for Graph-Structured Tasks. ICLR 2023. [[paper]](https://openreview.net/forum?id=cFuMmbWiN6)
