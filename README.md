@@ -11,6 +11,7 @@ We will try to make this list updated. If you found any error or any missed pape
 #### Spectral Positional Encoding
 1. Rethinking Graph Transformers with Spectral Attention. NeurIPS 2021. [[paper]](https://arxiv.org/abs/2106.03893)
 1. A Generalization of Transformer Networks to Graphs. AAAI workshop 2021. [[paper]](https://arxiv.org/pdf/2012.09699)
+1. Transformers Meet Directed Graphs. AAAI workshop 2023. [[paper]](https://www.cs.cit.tum.de/daml/digraph-transformer/)
 
 #### Other Structure-aware Encoding
 1. Do Transformers Really Perform Bad for Graph Representation? NeurIPS 2021. [[paper]](https://arxiv.org/abs/2106.05234)
