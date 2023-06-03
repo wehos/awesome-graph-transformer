@@ -12,7 +12,7 @@ We will try to make this list updated. If you found any error or any missed pape
 #### Spectral Positional Encoding
 1. Rethinking Graph Transformers with Spectral Attention. NeurIPS 2021. [[paper]](https://arxiv.org/abs/2106.03893)
 1. A Generalization of Transformer Networks to Graphs. AAAI workshop 2021. [[paper]](https://arxiv.org/pdf/2012.09699)
-1. Transformers Meet Directed Graphs. AAAI workshop 2023. [[paper]](https://www.cs.cit.tum.de/daml/digraph-transformer/)
+1. Transformers Meet Directed Graphs. ICML 2023. [[paper]](https://www.cs.cit.tum.de/daml/digraph-transformer/)
 
 #### Other Structure-aware Encoding
 1. Do Transformers Really Perform Bad for Graph Representation? NeurIPS 2021. [[paper]](https://arxiv.org/abs/2106.05234)
@@ -21,6 +21,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Global Self-Attention as a Replacement for Graph Convolution. KDD 2022. [[paper]](https://arxiv.org/abs/2108.03348)
 1. Pure Transformers are Powerful Graph Learners. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2207.02505)
 1. Are More Layers Beneficial to Graph Transformers? ICLR 2023. [[paper]](https://openreview.net/forum?id=uagC-X9XMi8)
+1. Graph Inductive Biases in Transformers without Message Passing. ICML 2023. [[paper]](https://arxiv.org/pdf/2305.17589.pdf)
 
 #### Graph Neural Networks as Structural Encoder
 1. GraphiT: Encoding Graph Structure in Transformers. arXiv 2021. [[paper]](https://arxiv.org/abs/2106.05667)
@@ -43,6 +44,8 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Deformable Graph Transformer. arXiv 2022. [[paper]](https://arxiv.org/abs/2206.14337)
 1. NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification. NeurIPS 2022. [[paper]](https://openreview.net/forum?id=sMezXGG5So)
 1. DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion. ICLR 2023. [[paper]](https://arxiv.org/abs/2301.09474)
+1. GOAT: A Global Transformer on Large-scale Graphs. ICML 2023. 
+1. EXPHORMER: Sparse Transformers for Graphs. ICML 2023. [[paper]](https://arxiv.org/abs/2303.06147)
 
 ### Applications of Graph Transformers (Molecules, Texts, Knowledge Graphs)
 1. Modeling Graph Structure in Transformer for Better AMR-to-Text Generation. EMNLP 2019. [[paper]](https://aclanthology.org/D19-1548/)
@@ -89,3 +92,5 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification. IJCAI 2021. [[paper]](https://www.ijcai.org/proceedings/2021/0214)
 1. Long Range Graph Benchmark. NeurIPS 2022. [[paper]](https://openreview.net/forum?id=in7XC5RcjEn)
 1. Rethinking the Expressive Power of GNNs via Graph Biconnectivity. ICLR 2023. [[paper]](https://openreview.net/forum?id=r9hNv76KoT3)
+1. A Generalization of ViT/MLP-Mixer to Graphs. ICML 2023. [[paper]](https://arxiv.org/abs/2212.13350)
+1. On the Connection Between MPNN and Graph Transformer. ICML 2023. [[paper]](https://arxiv.org/abs/2301.11956)
