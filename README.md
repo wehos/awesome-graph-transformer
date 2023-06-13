@@ -47,7 +47,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. GOAT: A Global Transformer on Large-scale Graphs. ICML 2023. 
 1. EXPHORMER: Sparse Transformers for Graphs. ICML 2023. [[paper]](https://arxiv.org/abs/2303.06147)
 
-### Applications of Graph Transformers (Molecules, Texts, Knowledge Graphs)
+### Applications of Graph Transformers (Single-Cell Data, Molecules, Texts, Knowledge Graphs)
 1. Modeling Graph Structure in Transformer for Better AMR-to-Text Generation. EMNLP 2019. [[paper]](https://aclanthology.org/D19-1548/)
 1. Heterogeneous Graph Transformer for Graph-to-Sequence Learning. ACL 2020. [[paper]](https://aclanthology.org/2020.acl-main.640/)
 1. Molecule Attention Transformer. arXiv 2020. [[paper]](https://arxiv.org/abs/2002.08264)
