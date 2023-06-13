@@ -72,6 +72,8 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Relational Attention: Generalizing Transformers for Graph-Structured Tasks. ICLR 2023. [[paper]](https://openreview.net/forum?id=cFuMmbWiN6)
 1. Heterformer: A Transformer Architecture for Node Representation Learning on Heterogeneous Text-Rich Networks. arXiv 2022. [[paper]](https://arxiv.org/abs/2205.10282)
 1. Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks. ICLR 2023. [[paper]](https://arxiv.org/abs/2302.11050)
+1. Single-Cell Multimodal Prediction via Transformers. arXiv 2023. [[paper]](https://arxiv.org/pdf/2303.00233.pdf)
+1. Single Cells Are Spatial Tokens: Transformers for Spatial Transcriptomic Data Imputation. arXiv 2023. [[paper]](https://arxiv.org/pdf/2302.03038.pdf)
 
 ### Pre-training with Graph Transformers
 1. Selfsupervised graph transformer on large-scale molecular data. NeurIPS 2020. [[paper]](https://arxiv.org/abs/2007.02835)
