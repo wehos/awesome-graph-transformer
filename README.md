@@ -22,6 +22,8 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Pure Transformers are Powerful Graph Learners. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2207.02505)
 1. Are More Layers Beneficial to Graph Transformers? ICLR 2023. [[paper]](https://openreview.net/forum?id=uagC-X9XMi8)
 1. Graph Inductive Biases in Transformers without Message Passing. ICML 2023. [[paper]](https://arxiv.org/pdf/2305.17589.pdf)
+1. Rethinking Structural Encodings: Adaptive Graph Transformer for Node Classification Task. WWW 2023. [[paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583464)
+1. HINormer: Representation Learning On Heterogeneous Information Networks with Graph Transformer. WWW 2023. [[paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583493)
 
 #### Graph Neural Networks as Structural Encoder
 1. GraphiT: Encoding Graph Structure in Transformers. arXiv 2021. [[paper]](https://arxiv.org/abs/2106.05667)
@@ -83,7 +85,7 @@ We will try to make this list updated. If you found any error or any missed pape
 
 
 ### Pre-training with Graph Transformers
-1. Selfsupervised graph transformer on large-scale molecular data. NeurIPS 2020. [[paper]](https://arxiv.org/abs/2007.02835)
+1. Self-supervised graph transformer on large-scale molecular data. NeurIPS 2020. [[paper]](https://arxiv.org/abs/2007.02835)
 1. Graph-Bert: Only Attention is Needed for Learning Graph Representations. arXiv 2020. [[paper]](https://arxiv.org/abs/2001.05140)
 1. Pre-training Graph Transformer with Multimodal Side Information for Recommendation. MM 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475709)
 1. Graph Masked Autoencoders with Transformers. arXiv 2022. [[paper]](https://arxiv.org/abs/2202.08391)
