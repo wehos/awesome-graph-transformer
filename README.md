@@ -60,6 +60,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Systematic Generalization with Edge Transformers. NeurIPS 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/0a4dc6dae338c9cb08947c07581f77a2-Paper.pdf)
 1. Mesh Graphormer. ICCV 2021. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Lin_Mesh_Graphormer_ICCV_2021_paper.html)
 1. Relative Molecule Self-Attention Transformer. arXiv 2021. [[paper]](https://arxiv.org/abs/2110.05841)
+1. A graph-transformer for whole slide image classification. TMI 2023. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9779215)
 1. Neighbour Interaction based Click-Through Rate Prediction via Graph-masked Transformer. arXiv 2022. [[paper]](https://arxiv.org/abs/2201.13311)
 1. Equivariant Transformers for Neural Network based Molecular Potentials. ICLR 2022. [[paper]](https://openreview.net/forum?id=zNHzqZ9wrRB)
 1. Periodic Graph Transformers for Crystal Material Property Prediction. NeurIPS 2022. [[pper]](https://arxiv.org/abs/2209.11807)
@@ -68,12 +69,15 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex Logical Queries. KDD 2022. [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539472)
 1. Relphormer: Relational Graph Transformer for Knowledge Graph Representations. arXiv 2022. [[paper]](https://arxiv.org/abs/2205.10852)
 1. CoAtGIN: Marrying Convolution and Attention for Graph-based Molecule Property Prediction. BIBM 2022. [[paper]](https://ieeexplore.ieee.org/abstract/document/9995324)
+1. GRIP: Graph Representation of Immune Repertoire Using Graph Neural Network and Transformer. AAAI 2023. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25645)
+1. MulGT: Multi-Task Graph-Transformer with Task-Aware Knowledge Injection and Domain Knowledge-Driven Pooling for Whole Slide Image Analysis. AAAI 2023. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25471)
 1. DiGress: Discrete Denoising diffusion for graph generation. ICLR 2023. [[paper]](https://arxiv.org/abs/2209.14734)
 1. Relational Attention: Generalizing Transformers for Graph-Structured Tasks. ICLR 2023. [[paper]](https://openreview.net/forum?id=cFuMmbWiN6)
 1. Heterformer: A Transformer Architecture for Node Representation Learning on Heterogeneous Text-Rich Networks. arXiv 2022. [[paper]](https://arxiv.org/abs/2205.10282)
 1. Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks. ICLR 2023. [[paper]](https://arxiv.org/abs/2302.11050)
 1. Single-Cell Multimodal Prediction via Transformers. arXiv 2023. [[paper]](https://arxiv.org/pdf/2303.00233.pdf)
 1. Single Cells Are Spatial Tokens: Transformers for Spatial Transcriptomic Data Imputation. arXiv 2023. [[paper]](https://arxiv.org/pdf/2302.03038.pdf)
+
 
 ### Pre-training with Graph Transformers
 1. Selfsupervised graph transformer on large-scale molecular data. NeurIPS 2020. [[paper]](https://arxiv.org/abs/2007.02835)
