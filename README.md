@@ -47,7 +47,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. GOAT: A Global Transformer on Large-scale Graphs. ICML 2023. 
 1. EXPHORMER: Sparse Transformers for Graphs. ICML 2023. [[paper]](https://arxiv.org/abs/2303.06147)
 
-### Applications of Graph Transformers (Single-Cell Data, Molecules, Texts, Knowledge Graphs)
+### Applications of Graph Transformers (Molecules, Texts, Knowledge Graphs, Recommendation, Medical, Traffic, etc)
 1. Modeling Graph Structure in Transformer for Better AMR-to-Text Generation. EMNLP 2019. [[paper]](https://aclanthology.org/D19-1548/)
 1. Heterogeneous Graph Transformer for Graph-to-Sequence Learning. ACL 2020. [[paper]](https://aclanthology.org/2020.acl-main.640/)
 1. Molecule Attention Transformer. arXiv 2020. [[paper]](https://arxiv.org/abs/2002.08264)
@@ -71,17 +71,21 @@ We will try to make this list updated. If you found any error or any missed pape
 1. CoAtGIN: Marrying Convolution and Attention for Graph-based Molecule Property Prediction. BIBM 2022. [[paper]](https://ieeexplore.ieee.org/abstract/document/9995324)
 1. GRIP: Graph Representation of Immune Repertoire Using Graph Neural Network and Transformer. AAAI 2023. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25645)
 1. MulGT: Multi-Task Graph-Transformer with Task-Aware Knowledge Injection and Domain Knowledge-Driven Pooling for Whole Slide Image Analysis. AAAI 2023. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25471)
+1. Inductive Graph Transformer for Delivery Time Estimation. WSDM 2023. [[paper]](https://dl.acm.org/doi/10.1145/3539597.3570409)
+1. LightGT: A Light Graph Transformer for Multimedia Recommendation. SIGIR 2023. [[paper]](https://dl.acm.org/doi/10.1145/3539618.3591716)
+1. Graph Transformer for Recommendation. SIGIR 2023. [[paper]](https://dl.acm.org/doi/abs/10.1145/3539618.3591723)
 1. DiGress: Discrete Denoising diffusion for graph generation. ICLR 2023. [[paper]](https://arxiv.org/abs/2209.14734)
 1. Relational Attention: Generalizing Transformers for Graph-Structured Tasks. ICLR 2023. [[paper]](https://openreview.net/forum?id=cFuMmbWiN6)
 1. Heterformer: A Transformer Architecture for Node Representation Learning on Heterogeneous Text-Rich Networks. arXiv 2022. [[paper]](https://arxiv.org/abs/2205.10282)
 1. Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks. ICLR 2023. [[paper]](https://arxiv.org/abs/2302.11050)
-1. Single-Cell Multimodal Prediction via Transformers. arXiv 2023. [[paper]](https://arxiv.org/pdf/2303.00233.pdf)
+1. Single-Cell Multimodal Prediction via Transformers. CIKM 2023. [[paper]](https://arxiv.org/pdf/2303.00233.pdf)
 1. Single Cells Are Spatial Tokens: Transformers for Spatial Transcriptomic Data Imputation. arXiv 2023. [[paper]](https://arxiv.org/pdf/2302.03038.pdf)
 
 
 ### Pre-training with Graph Transformers
 1. Selfsupervised graph transformer on large-scale molecular data. NeurIPS 2020. [[paper]](https://arxiv.org/abs/2007.02835)
 1. Graph-Bert: Only Attention is Needed for Learning Graph Representations. arXiv 2020. [[paper]](https://arxiv.org/abs/2001.05140)
+1. Pre-training Graph Transformer with Multimodal Side Information for Recommendation. MM 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475709)
 1. Graph Masked Autoencoders with Transformers. arXiv 2022. [[paper]](https://arxiv.org/abs/2202.08391)
 
 ### Survey
