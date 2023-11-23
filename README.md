@@ -82,6 +82,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks. ICLR 2023. [[paper]](https://arxiv.org/abs/2302.11050)
 1. Single-Cell Multimodal Prediction via Transformers. CIKM 2023. [[paper]](https://arxiv.org/pdf/2303.00233.pdf)
 1. Single Cells Are Spatial Tokens: Transformers for Spatial Transcriptomic Data Imputation. arXiv 2023. [[paper]](https://arxiv.org/pdf/2302.03038.pdf)
+1. A Retrieve-and-Read Framework for Knowledge Graph Link Prediction. CIKM 2023. [[paper]](https://arxiv.org/pdf/2212.09724.pdf)
 
 
 ### Pre-training with Graph Transformers
