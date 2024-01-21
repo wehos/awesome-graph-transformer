@@ -24,7 +24,9 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Graph Inductive Biases in Transformers without Message Passing. ICML 2023. [[paper]](https://dl.acm.org/doi/10.5555/3618408.3619379)
 1. Rethinking Structural Encodings: Adaptive Graph Transformer for Node Classification Task. WWW 2023. [[paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583464)
 1. HINormer: Representation Learning On Heterogeneous Information Networks with Graph Transformer. WWW 2023. [[paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583493)
-
+1. Graph Propagation Transformer for Graph Representation Learning. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0396.pdf)
+1. LGI-GT: Graph Transformers with Local and Global Operators Interleaving. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0501.pdf)
+   
 #### Graph Neural Networks as Structural Encoder
 1. GraphiT: Encoding Graph Structure in Transformers. arXiv 2021. [[paper]](https://arxiv.org/abs/2106.05667)
 1. Representing Long-Range Context for Graph Neural Networks with Global Attention. NeurIPS 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/6e67691b60ed3e4a55935261314dd534-Paper.pdf)
@@ -39,6 +41,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Coarformer: Transformer for large graph via graph coarsening. Openreview 2021. [[paper]](https://openreview.net/forum?id=fkjO_FKVzw)
 1. Hierarchical Graph Transformer with Adaptive Node Sampling. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2210.03930)
 1. NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs. ICLR 2023. [[paper]](https://openreview.net/forum?id=8KYeilT3Ow)
+1. Hierarchical Transformer for Scalable Graph Learning. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0523.pdf)
 
 #### Transformers with Adapted Attention
 1. From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers. ICML 2022. [[paper]](https://arxiv.org/abs/2107.07999)
@@ -49,6 +52,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. GOAT: A Global Transformer on Large-scale Graphs. ICML 2023. [[paper]](https://dl.acm.org/doi/10.5555/3618408.3619124)
 1. EXPHORMER: Sparse Transformers for Graphs. ICML 2023. [[paper]](https://dl.acm.org/doi/10.5555/3618408.3619718)
 1. KDLGT: A Linear Graph Transformer Framework via Kernel Decomposition Approach. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0263.pdf)
+1. Gapformer: Graph Transformer with Graph Pooling for Node Classification. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0244.pdf)
 
 ### Applications of Graph Transformers (Molecules, Texts, Knowledge Graphs, Recommendation, Medical, Traffic, etc)
 1. Modeling Graph Structure in Transformer for Better AMR-to-Text Generation. EMNLP 2019. [[paper]](https://aclanthology.org/D19-1548/)
