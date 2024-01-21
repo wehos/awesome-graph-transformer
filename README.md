@@ -26,6 +26,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. HINormer: Representation Learning On Heterogeneous Information Networks with Graph Transformer. WWW 2023. [[paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583493)
 1. Graph Propagation Transformer for Graph Representation Learning. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0396.pdf)
 1. LGI-GT: Graph Transformers with Local and Global Operators Interleaving. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0501.pdf)
+1. On Structural Expressive Power of Graph Transformers. KDD 2023. [[paper]](https://dl.acm.org/doi/10.1145/3580305.3599451)
    
 #### Graph Neural Networks as Structural Encoder
 1. GraphiT: Encoding Graph Structure in Transformers. arXiv 2021. [[paper]](https://arxiv.org/abs/2106.05667)
@@ -53,6 +54,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. EXPHORMER: Sparse Transformers for Graphs. ICML 2023. [[paper]](https://dl.acm.org/doi/10.5555/3618408.3619718)
 1. KDLGT: A Linear Graph Transformer Framework via Kernel Decomposition Approach. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0263.pdf)
 1. Gapformer: Graph Transformer with Graph Pooling for Node Classification. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0244.pdf)
+1. Polynormer: Polynomial-Expressive Graph Transformer in Linear Time. ICLR 2024. [[paper]](https://openreview.net/forum?id=hmv1LpNfXa)
 
 ### Applications of Graph Transformers (Molecules, Texts, Knowledge Graphs, Recommendation, Medical, Traffic, etc)
 1. Modeling Graph Structure in Transformer for Better AMR-to-Text Generation. EMNLP 2019. [[paper]](https://aclanthology.org/D19-1548/)
@@ -88,6 +90,8 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Single-Cell Multimodal Prediction via Transformers. CIKM 2023. [[paper]](https://arxiv.org/pdf/2303.00233.pdf)
 1. Single Cells Are Spatial Tokens: Transformers for Spatial Transcriptomic Data Imputation. arXiv 2023. [[paper]](https://arxiv.org/pdf/2302.03038.pdf)
 1. A Retrieve-and-Read Framework for Knowledge Graph Link Prediction. CIKM 2023. [[paper]](https://arxiv.org/pdf/2212.09724.pdf)
+1. GTMGC: Using Graph Transformer to Predict Molecule’s Ground-State Conformation. ICLR 2024. [[paper]](https://openreview.net/forum?id=F7QnIKlC1N)
+1. Graph Transformers on EHRs: Better Representation Improves Downstream Performance. ICLR 2024. [[paper]](https://openreview.net/forum?id=pe0Vdv7rsL)
 
 
 ### Pre-training with Graph Transformers
@@ -112,3 +116,5 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Rethinking the Expressive Power of GNNs via Graph Biconnectivity. ICLR 2023. [[paper]](https://openreview.net/forum?id=r9hNv76KoT3)
 1. A Generalization of ViT/MLP-Mixer to Graphs. ICML 2023. [[paper]](https://dl.acm.org/doi/10.5555/3618408.3618925)
 1. On the Connection Between MPNN and Graph Transformer. ICML 2023. [[paper]](https://proceedings.mlr.press/v202/cai23b/cai23b.pdf)
+1. Demystifying Oversmoothing in Attention-Based Graph Neural Networks. NeurIPS 2023. [[paper]](https://openreview.net/forum?id=Kg65qieiuB)
+1. Transformers vs. Message Passing GNNs: Distinguished in Uniform. ICLR 2024. [[paper]](https://openreview.net/forum?id=AcSChDWL6V)
