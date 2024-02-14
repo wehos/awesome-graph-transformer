@@ -27,6 +27,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Graph Propagation Transformer for Graph Representation Learning. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0396.pdf)
 1. LGI-GT: Graph Transformers with Local and Global Operators Interleaving. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0501.pdf)
 1. On Structural Expressive Power of Graph Transformers. KDD 2023. [[paper]](https://dl.acm.org/doi/10.1145/3580305.3599451)
+1. LPFormer: An Adaptive Graph Transformer for Link Prediction. Arxiv 2024. [[paper]](https://arxiv.org/abs/2310.11009)
    
 #### Graph Neural Networks as Structural Encoder
 1. GraphiT: Encoding Graph Structure in Transformers. arXiv 2021. [[paper]](https://arxiv.org/abs/2106.05667)
@@ -43,6 +44,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Hierarchical Graph Transformer with Adaptive Node Sampling. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2210.03930)
 1. NAGphormer: A Tokenized Graph Transformer for Node Classification in Large Graphs. ICLR 2023. [[paper]](https://openreview.net/forum?id=8KYeilT3Ow)
 1. Hierarchical Transformer for Scalable Graph Learning. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0523.pdf)
+1. LPFormer: An Adaptive Graph Transformer for Link Prediction. Arxiv 2024. [[paper]](https://arxiv.org/abs/2310.11009)
 
 #### Transformers with Adapted Attention
 1. From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers. ICML 2022. [[paper]](https://arxiv.org/abs/2107.07999)
