@@ -28,6 +28,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. LGI-GT: Graph Transformers with Local and Global Operators Interleaving. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0501.pdf)
 1. On Structural Expressive Power of Graph Transformers. KDD 2023. [[paper]](https://dl.acm.org/doi/10.1145/3580305.3599451)
 1. LPFormer: An Adaptive Graph Transformer for Link Prediction. Arxiv 2024. [[paper]](https://arxiv.org/abs/2310.11009)
+1. Triplet Interaction Improves Graph Transformers: Accurate Molecular Graph Learning with Triplet Graph Transformers. Arxiv 2024. [[paper]](https://arxiv.org/abs/2402.04538)
    
 #### Graph Neural Networks as Structural Encoder
 1. GraphiT: Encoding Graph Structure in Transformers. arXiv 2021. [[paper]](https://arxiv.org/abs/2106.05667)
@@ -71,6 +72,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Systematic Generalization with Edge Transformers. NeurIPS 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/0a4dc6dae338c9cb08947c07581f77a2-Paper.pdf)
 1. Mesh Graphormer. ICCV 2021. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Lin_Mesh_Graphormer_ICCV_2021_paper.html)
 1. Relative Molecule Self-Attention Transformer. arXiv 2021. [[paper]](https://arxiv.org/abs/2110.05841)
+1. Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification. IJCAI 2021. [[paper]](https://www.ijcai.org/proceedings/2021/0214)
 1. A graph-transformer for whole slide image classification. TMI 2023. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9779215)
 1. Neighbour Interaction based Click-Through Rate Prediction via Graph-masked Transformer. arXiv 2022. [[paper]](https://arxiv.org/abs/2201.13311)
 1. Equivariant Transformers for Neural Network based Molecular Potentials. ICLR 2022. [[paper]](https://openreview.net/forum?id=zNHzqZ9wrRB)
@@ -110,13 +112,13 @@ We will try to make this list updated. If you found any error or any missed pape
 ### Neural Architecture Search (NAS) for Graph Transformers
 1. AutoGT: Automated Graph Transformer Architecture Search. ICLR 2023. [[paper]](https://openreview.net/forum?id=GcM7qfl5zY)
 
-### Uncategorized
+### Benchmarks and Analyses
 1. Transformers Generalize DeepSets and Can be Extended to Graphs & Hypergraphs. NeurIPS 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/ec0f40c389aeef789ce03eb814facc6c-Paper.pdf)
 1. Universal Graph Transformer Self-Attention Networks. WWW 2022. [[paper]](https://dl.acm.org/doi/abs/10.1145/3487553.3524258)
-1. Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification. IJCAI 2021. [[paper]](https://www.ijcai.org/proceedings/2021/0214)
 1. Long Range Graph Benchmark. NeurIPS 2022. [[paper]](https://openreview.net/forum?id=in7XC5RcjEn)
 1. Rethinking the Expressive Power of GNNs via Graph Biconnectivity. ICLR 2023. [[paper]](https://openreview.net/forum?id=r9hNv76KoT3)
-1. A Generalization of ViT/MLP-Mixer to Graphs. ICML 2023. [[paper]](https://dl.acm.org/doi/10.5555/3618408.3618925)
 1. On the Connection Between MPNN and Graph Transformer. ICML 2023. [[paper]](https://proceedings.mlr.press/v202/cai23b/cai23b.pdf)
+1. A Generalization of ViT/MLP-Mixer to Graphs. ICML 2023. [[paper]](https://dl.acm.org/doi/10.5555/3618408.3618925)
 1. Demystifying Oversmoothing in Attention-Based Graph Neural Networks. NeurIPS 2023. [[paper]](https://openreview.net/forum?id=Kg65qieiuB)
 1. Transformers vs. Message Passing GNNs: Distinguished in Uniform. ICLR 2024. [[paper]](https://openreview.net/forum?id=AcSChDWL6V)
+
