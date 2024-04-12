@@ -29,6 +29,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. On Structural Expressive Power of Graph Transformers. KDD 2023. [[paper]](https://dl.acm.org/doi/10.1145/3580305.3599451)
 1. LPFormer: An Adaptive Graph Transformer for Link Prediction. Arxiv 2024. [[paper]](https://arxiv.org/abs/2310.11009)
 1. Triplet Interaction Improves Graph Transformers: Accurate Molecular Graph Learning with Triplet Graph Transformers. Arxiv 2024. [[paper]](https://arxiv.org/abs/2402.04538)
+1. Transitivity-Preserving Graph Representation Learning for Bridging Local Connectivity and Role-Based Similarity. AAAI 2024. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29138)
    
 #### Graph Neural Networks as Structural Encoder
 1. GraphiT: Encoding Graph Structure in Transformers. arXiv 2021. [[paper]](https://arxiv.org/abs/2106.05667)
@@ -108,6 +109,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Transformer for Graphs: An Overview from Architecture Perspective. arXiv 2022. [[paper]](https://arxiv.org/abs/2202.08455)
 1. A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. arXiv 2022. [[paper]](https://arxiv.org/abs/2209.13232)
 1. Attending to Graph Transformers. arXiv 2022. [[paper]](https://arxiv.org/abs/2302.04181)
+1. A Survey on Structure-Preserving Graph Transformers. arXiv 2024. [[paper]](https://arxiv.org/abs/2401.16176)
 
 ### Neural Architecture Search (NAS) for Graph Transformers
 1. AutoGT: Automated Graph Transformer Architecture Search. ICLR 2023. [[paper]](https://openreview.net/forum?id=GcM7qfl5zY)
