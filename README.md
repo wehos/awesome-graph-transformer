@@ -108,6 +108,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Transformer for Graphs: An Overview from Architecture Perspective. arXiv 2022. [[paper]](https://arxiv.org/abs/2202.08455)
 1. A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective. arXiv 2022. [[paper]](https://arxiv.org/abs/2209.13232)
 1. Attending to Graph Transformers. arXiv 2022. [[paper]](https://arxiv.org/abs/2302.04181)
+1. A Survey of Graph Transformers: Architectures, Theories and Applications. arXiv 2025. [[paper]](https://arxiv.org/abs/2502.16533)
 
 ### Neural Architecture Search (NAS) for Graph Transformers
 1. AutoGT: Automated Graph Transformer Architecture Search. ICLR 2023. [[paper]](https://openreview.net/forum?id=GcM7qfl5zY)
