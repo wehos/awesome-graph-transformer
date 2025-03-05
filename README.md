@@ -103,6 +103,7 @@ We will try to make this list updated. If you found any error or any missed pape
 1. Graph-Bert: Only Attention is Needed for Learning Graph Representations. arXiv 2020. [[paper]](https://arxiv.org/abs/2001.05140)
 1. Pre-training Graph Transformer with Multimodal Side Information for Recommendation. MM 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475709)
 1. Graph Masked Autoencoders with Transformers. arXiv 2022. [[paper]](https://arxiv.org/abs/2202.08391)
+1. A Graph is Worth K Words: Euclideanizing Graph using Pure Transformer. ICML 2024. [[paper]](https://arxiv.org/abs/2402.02464)
 
 ### Survey
 1. Transformer for Graphs: An Overview from Architecture Perspective. arXiv 2022. [[paper]](https://arxiv.org/abs/2202.08455)
