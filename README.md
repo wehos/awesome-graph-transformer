@@ -4,37 +4,44 @@
 
 <!--![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/ChandlerBang/awesome-self-supervised-gnn?color=yellow)  ![Forks](https://img.shields.io/github/forks/ChandlerBang/awesome-self-supervised-gnn?color=blue&label=Fork) -->
 
-This repository contains a list of papers on the Graph Transformers; we categorize them based on their detailed techniques.
+This repository contains a list of papers on the Graph Transformers; we categorize them based on their detailed techniques. 
 
-We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open an issue or pull request.
+We will try to keep this list updated. If you find any error or any missed paper, please don't hesitate to open an issue or pull request. *Maintaining this paper list has been a long and fulfilling journey, thanks to every contributor.*
 
-### Structural Encoding / Postional Encoding for Graph Transformers
-#### Spectral Positional Encoding
+#### Notes of Major Updates:
+- ***2025/03***: _Recategorized "Structural Encoding / Postional Encoding for Graph Transformers" into "Absolute PE", "Relative PE" and "Graph Neural Networks as Structural Encoder". It is worth noting that when we initially organized the categories, spectral positional encoding appeared to be the most promising approach, so we highlighted it in a separate category. However, there has been a dramatic shift in research interest in recent years._
+- ***2025/02***: _A recent [survey](https://arxiv.org/abs/2502.16533) offers a comprehensive overview of the field of graph transformers. According to the survey, many new papers will soon be added to this list._
+
+### Structural Encoding / Positional Encoding for Graph Transformers
+#### Absolute Positional Encoding (e.g., spectral PE, random walk PE)
 1. Rethinking Graph Transformers with Spectral Attention. NeurIPS 2021. [[paper]](https://arxiv.org/abs/2106.03893)
 1. A Generalization of Transformer Networks to Graphs. AAAI workshop 2021. [[paper]](https://arxiv.org/pdf/2012.09699)
 1. Transformers Meet Directed Graphs. ICML 2023. [[paper]](https://dl.acm.org/doi/10.5555/3618408.3618855)
-
-#### Other Structure-aware Encoding
-1. Do Transformers Really Perform Bad for Graph Representation? NeurIPS 2021. [[paper]](https://arxiv.org/abs/2106.05234)
 1. Graph Neural Networks with Learnable Structural and Positional Representations. ICLR 2022. [[paper]](https://arxiv.org/abs/2110.07875)
+
+#### Relative Positional Encoding (e.g., structure-aware attention bias, structure-aware attention mask)
+1. Do Transformers Really Perform Bad for Graph Representation? NeurIPS 2021. [[paper]](https://arxiv.org/abs/2106.05234)
 1. GRPE: Relative Positional Encoding for Graph Transformer. ICLR 2022 Workshop MLDD [[paper]](https://openreview.net/forum?id=GNfAFN_p1d)
-1. Global Self-Attention as a Replacement for Graph Convolution. KDD 2022. [[paper]](https://arxiv.org/abs/2108.03348)
-1. Pure Transformers are Powerful Graph Learners. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2207.02505)
-1. Are More Layers Beneficial to Graph Transformers? ICLR 2023. [[paper]](https://openreview.net/forum?id=uagC-X9XMi8)
 1. Graph Inductive Biases in Transformers without Message Passing. ICML 2023. [[paper]](https://dl.acm.org/doi/10.5555/3618408.3619379)
 1. Rethinking Structural Encodings: Adaptive Graph Transformer for Node Classification Task. WWW 2023. [[paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583464)
-1. HINormer: Representation Learning On Heterogeneous Information Networks with Graph Transformer. WWW 2023. [[paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583493)
-1. Graph Propagation Transformer for Graph Representation Learning. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0396.pdf)
-1. LGI-GT: Graph Transformers with Local and Global Operators Interleaving. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0501.pdf)
 1. On Structural Expressive Power of Graph Transformers. KDD 2023. [[paper]](https://dl.acm.org/doi/10.1145/3580305.3599451)
-1. LPFormer: An Adaptive Graph Transformer for Link Prediction. Arxiv 2024. [[paper]](https://arxiv.org/abs/2310.11009)
-1. Triplet Interaction Improves Graph Transformers: Accurate Molecular Graph Learning with Triplet Graph Transformers. Arxiv 2024. [[paper]](https://arxiv.org/abs/2402.04538)
-   
-#### Graph Neural Networks as Structural Encoder
+1. LPFormer: An Adaptive Graph Transformer for Link Prediction. KDD 2024. [[paper]](https://arxiv.org/abs/2310.11009)
+
+#### Edge Tokenization and subgraph tokenization
+1. Pure Transformers are Powerful Graph Learners. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2207.02505)
+1. Global Self-Attention as a Replacement for Graph Convolution. KDD 2022. [[paper]](https://arxiv.org/abs/2108.03348)
+1. Are More Layers Beneficial to Graph Transformers? ICLR 2023. [[paper]](https://openreview.net/forum?id=uagC-X9XMi8)
+1. Graph Propagation Transformer for Graph Representation Learning. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0396.pdf)
+1. Triplet Interaction Improves Graph Transformers: Accurate Molecular Graph Learning with Triplet Graph Transformers. ICML 2024. [[paper]](https://arxiv.org/abs/2402.04538)
+
+#### Graph Neural Networks as Structural Encoder (Ensemble models)
 1. GraphiT: Encoding Graph Structure in Transformers. arXiv 2021. [[paper]](https://arxiv.org/abs/2106.05667)
 1. Representing Long-Range Context for Graph Neural Networks with Global Attention. NeurIPS 2021. [[paper]](https://proceedings.neurips.cc/paper/2021/file/6e67691b60ed3e4a55935261314dd534-Paper.pdf)
 1. Structure-Aware Transformer for Graph Representation Learning. ICML 2022. [[paper]](https://proceedings.mlr.press/v162/chen22r.html)
 1. Recipe for a General, Powerful, Scalable Graph Transformer. NeurIPS 2022. [[paper]](https://arxiv.org/abs/2205.12454)
+1. HINormer: Representation Learning On Heterogeneous Information Networks with Graph Transformer. WWW 2023. [[paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583493)
+1. LGI-GT: Graph Transformers with Local and Global Operators Interleaving. IJCAI 2023. [[paper]](https://www.ijcai.org/proceedings/2023/0501.pdf)
+
 
 ### Scalability of Graph Transformers (Graph Transformers on Large Graphs)
 #### Transformers with Sampling
